@@ -4,91 +4,91 @@
         "id": 1,
         "name": "1982 Cabernet Blanc",
         "price": "200",
-        "img": "assets/IMG/1.jpg",
+        "img": "assets/IMG/ruo1.jpg",
         "type": "red"
       },
       {
         "id": 2,
         "name": "Belleville Red Wine 2019",
-        "price": "200",
-        "img": "assets/IMG/1.jpg",
+        "price": "300",
+        "img": "assets/IMG/ruou2.jpg",
         "type": "red"
       },
       {
         "id": 3,
         "name": "CARMEN EDITION LIMITED 2018",
-        "price": "200",
-        "img": "assets/IMG/1.jgp",
+        "price": "600",
+        "img": "assets/IMG/ruou3.jpg",
         "type": "red"
       },
       {
         "id": 4,
         "name": "CROCUS L'ATELIER 2016",
-        "price": "200",
-        "img": "assets/IMG/1.jpg",
+        "price": "1200",
+        "img": "assets/IMG/ruou4.jpg",
         "type": "red"
       },
       {
         "id": 5,
         "name": "Roche Mazet",
-        "price": "200",
-        "img": "assets/IMG/1.jpg",
+        "price": "400",
+        "img": "assets/IMG/ruou5.jpg",
         "type": "red"
       },
       {
         "id": 6,
         "name": "Napas Bordeaux",
-        "price": "200",
-        "img": "assets/IMG/1.jpg",
+        "price": "1300",
+        "img": "assets/IMG/ruou6.jpg",
         "type": "red"
     },
     {
       "id": 7,
       "name": "Napas Bordeaux",
-      "price": "200",
-      "img": "assets/IMG/1.jpg",
+      "price": "100",
+      "img": "assets/IMG/ruou7.jpg",
       "type": "red"
     },
     {
       "id": 8,
       "name": "Napas Bordeaux",
-      "price": "200",
-      "img": "assets/IMG/1.jpg",
+      "price": "400",
+      "img": "assets/IMG/ruou8.jpg",
       "type": "red"
     },
     {
       "id": 9,
       "name": "Napas Bordeaux",
-      "price": "200",
-      "img": "assets/IMG/1.jpg",
+      "price": "2100",
+      "img": "assets/IMG/ruou9.jpg",
       "type": "red"
     },
     {
       "id": 10,
       "name": "Napas Bordeaux",
-      "price": "200",
-      "img": "assets/IMG/1.jpg",
+      "price": "340",
+      "img": "assets/IMG/ruou10.jpg",
       "type": "red"
     },
     {
       "id": 11,
       "name": "Napas Bordeaux",
-      "price": "200",
-      "img": "assets/IMG/1.jpg",
+      "price": "100",
+      "img": "assets/IMG/ruou11.jpg",
       "type": "red"
     },
     {
       "id": 12,
       "name": "Napas Bordeaux",
-      "price": "200",
-      "img": "assets/IMG/1.jpg",
+      "price": "400",
+      "img": "assets/IMG/ruou12.jpg",
       "type": "red"
     },
     {
       "id": 13,
       "name": "Napas Bordeaux",
-      "price": "200",
-      "img": "assets/IMG/1.jpg",
+      "price": "300",
+      "img": "assets/IMG/ruou13.jpg",
       "type": "red"
       }
     ]
