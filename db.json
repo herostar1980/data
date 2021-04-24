@@ -4,19 +4,19 @@
     {
         "Id": "ADAV",
         "Name": "Lập trình Android nâng cao",
-        "Logo": "ADAV.jpg",
+        "Logo": "/assets/taiNguyen/images/ADAV.jpg",
         "Logo1": "androi1.jfif"
     },
     {
         "Id": "ADBS",
         "Name": "Lập trình Android cơ bản",
-        "Logo": "ADBS.jpg",
+        "Logo": "/assets/taiNguyen/images/ADBS.jpg",
         "Logo1": "androi1.jfif"
     },
     {
         "Id": "ADTE",
         "Name": "Kiểm thử và triển khai ứng dụng Android",
-        "Logo": "ADTE.jpg",
+        "Logo": "/assets/taiNguyen/images/ADTE.jpg",
         "Logo1": "androi1.jfif"
 
     },
