@@ -4,138 +4,138 @@
     {
         "Id": "ADAV",
         "Name": "Lập trình Android nâng cao",
-        "Logo": "/assets/taiNguyen/images/ADAV.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/ADAV.jpg",
         "Logo1": "/assets/taiNguyen/images/androi1.jfif"
     },
     {
         "Id": "ADBS",
         "Name": "Lập trình Android cơ bản",
-        "Logo": "/assets/taiNguyen/images/ADBS.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/ADBS.jpg",
         "Logo1": "/assets/taiNguyen/images/androi1.jfif"
     },
     {
         "Id": "ADTE",
         "Name": "Kiểm thử và triển khai ứng dụng Android",
-        "Logo": "/assets/taiNguyen/images/ADTE.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/ADTE.jpg",
         "Logo1": "/assets/taiNguyen/images/androi1.jfif"
 
     },
     {
         "Id": "ADUI",
         "Name": "Thiết kế giao diện trên Android",
-        "Logo": "/assets/taiNguyen/images/ADUI.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/ADUI.jpg",
         "Logo1": "/assets/taiNguyen/images/androi1.jfif"
 
     },
     {
         "Id": "ASNE",
         "Name": "Lập trình ASP.NET",
-        "Logo": "/assets/taiNguyen/images/ASNE.png",
+        "Logo": "/assets/taiNguyen/images/logos/ASNE.png",
         "Logo1": "/assets/taiNguyen/images/asp1.jfif"
 
     },
     {
         "Id": "CLCO",
         "Name": "Điện toán đám mây",
-        "Logo": "/assets/taiNguyen/images/CLCO.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/CLCO.jpg",
         "Logo1": "/assets/taiNguyen/images/cloud1.jfif"
 
     },
     {
         "Id": "DBAV",
         "Name": "SQL Server",
-        "Logo": "/assets/taiNguyen/images/DBAV.png",
+        "Logo": "/assets/taiNguyen/images/logos/DBAV.png",
         "Logo1": "/assets/taiNguyen/images/dbav1.png"
 
     },
     {
         "Id": "DBBS",
         "Name": "Cơ sở dữ liệu",
-        "Logo": "/assets/taiNguyen/images/DBBS.png",
+        "Logo": "/assets/taiNguyen/images/logos/DBBS.png",
         "Logo1": "/assets/taiNguyen/images/db1.png"
 
     },
     {
         "Id": "GAME",
         "Name": "Lập trình game 2D",
-        "Logo": "/assets/taiNguyen/images/GAME.png",
+        "Logo": "/assets/taiNguyen/images/logos/GAME.png",
         "Logo1": "/assets/taiNguyen/images/game1.jfif"
 
     },
     {
         "Id": "HTCS",
         "Name": "HTML5 và CSS3",
-        "Logo": "/assets/taiNguyen/images/HTCS.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/HTCS.jpg",
         "Logo1": "/assets/taiNguyen/images/htcs1.jfif"
 
     },
     {
         "Id": "INMA",
         "Name": "Internet Marketing",
-        "Logo": "/assets/taiNguyen/images/INMA.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/INMA.jpg",
         "Logo1": "/assets/taiNguyen/images/seo1.jfif"
 
     },
     {
         "Id": "JAAV",
         "Name": "Lập trình Java nâng cao",
-        "Logo": "/assets/taiNguyen/images/JAAV.png",
+        "Logo": "/assets/taiNguyen/images/logos/JAAV.png",
         "Logo1": "/assets/taiNguyen/images/java1.png"
 
     },
     {
         "Id": "JABS",
         "Name": "Lập trình hướng đối tượng với Java",
-        "Logo": "/assets/taiNguyen/images/JABS.png",
+        "Logo": "/assets/taiNguyen/images/logos/JABS.png",
         "Logo1": "/assets/taiNguyen/images/java1.png"
 
     },
     {
         "Id": "JSPR",
         "Name": "Lập trình JavaScript",
-        "Logo": "/assets/taiNguyen/images/JSPR.png",
+        "Logo": "/assets/taiNguyen/images/logos/JSPR.png",
         "Logo1": "/assets/taiNguyen/images/js1.png"
 
     },
     {
         "Id": "LAYO",
         "Name": "Thiết kế layout",
-        "Logo": "/assets/taiNguyen/images/LAYO.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/LAYO.jpg",
         "Logo1": "/assets/taiNguyen/images/layo1.jfif"
 
     },
     {
         "Id": "MOWE",
         "Name": "Thiết kế web cho điện thoại di động",
-        "Logo": "/assets/taiNguyen/images/MOWE.png",
+        "Logo": "/assets/taiNguyen/images/logos/MOWE.png",
         "Logo1": "/assets/taiNguyen/images/mowe1.jfif"
 
     },
     {
         "Id": "PHPP",
         "Name": "Lập trình PHP",
-        "Logo": "/assets/taiNguyen/images/PHPP.png",
+        "Logo": "/assets/taiNguyen/images/logos/PHPP.png",
         "Logo1": "/assets/taiNguyen/images/php1.jfif"
 
     },
     {
         "Id": "PMAG",
         "Name": "Quản lý dự án với Agile",
-        "Logo": "/assets/taiNguyen/images/PMAG.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/PMAG.jpg",
         "Logo1": "/assets/taiNguyen/images/agile1.png"
 
     },
     {
         "Id": "VBPR",
         "Name": "Lập trình VB.NET",
-        "Logo": "/assets/taiNguyen/images/VBPR.png",
+        "Logo": "/assets/taiNguyen/images/logos/VBPR.png",
         "Logo1": "/assets/taiNguyen/images/visual1.png"
 
     },
     {
         "Id": "WEBU",
         "Name": "Xây dựng trang web",
-        "Logo": "/assets/taiNguyen/images/WEBU.jpg",
+        "Logo": "/assets/taiNguyen/images/logos/WEBU.jpg",
         "Logo1": "/assets/taiNguyen/images/webu1.jfif"
     }
 ]
